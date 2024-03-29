@@ -1,0 +1,14 @@
+C:\Users\raj42\source\repos\NumberParser\NumberParser\bin\Release\net8.0\NumberParser.exe
+C:\Users\raj42\source\repos\NumberParser\NumberParser\bin\Release\net8.0\NumberParser.deps.json
+C:\Users\raj42\source\repos\NumberParser\NumberParser\bin\Release\net8.0\NumberParser.runtimeconfig.json
+C:\Users\raj42\source\repos\NumberParser\NumberParser\bin\Release\net8.0\NumberParser.dll
+C:\Users\raj42\source\repos\NumberParser\NumberParser\bin\Release\net8.0\NumberParser.pdb
+C:\Users\raj42\source\repos\NumberParser\NumberParser\obj\Release\net8.0\NumberParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj42\source\repos\NumberParser\NumberParser\obj\Release\net8.0\NumberParser.AssemblyInfoInputs.cache
+C:\Users\raj42\source\repos\NumberParser\NumberParser\obj\Release\net8.0\NumberParser.AssemblyInfo.cs
+C:\Users\raj42\source\repos\NumberParser\NumberParser\obj\Release\net8.0\NumberParser.csproj.CoreCompileInputs.cache
+C:\Users\raj42\source\repos\NumberParser\NumberParser\obj\Release\net8.0\NumberParser.dll
+C:\Users\raj42\source\repos\NumberParser\NumberParser\obj\Release\net8.0\refint\NumberParser.dll
+C:\Users\raj42\source\repos\NumberParser\NumberParser\obj\Release\net8.0\NumberParser.pdb
+C:\Users\raj42\source\repos\NumberParser\NumberParser\obj\Release\net8.0\NumberParser.genruntimeconfig.cache
+C:\Users\raj42\source\repos\NumberParser\NumberParser\obj\Release\net8.0\ref\NumberParser.dll

@@ -1,0 +1,5 @@
+C:\Users\raj42\Documents\Testing\NumberParser.exe
+C:\Users\raj42\Documents\Testing\NumberParser.dll
+C:\Users\raj42\Documents\Testing\NumberParser.deps.json
+C:\Users\raj42\Documents\Testing\NumberParser.runtimeconfig.json
+C:\Users\raj42\Documents\Testing\NumberParser.pdb
